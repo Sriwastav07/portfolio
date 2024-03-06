@@ -1,0 +1,91 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    background-image: url(https://wallpaperaccess.com/full/1558743.jpg);
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    
+}
+
+nav ul li a {
+    text-decoration: underline;
+    color: #fff;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+}
+h1, h3 {
+    align-items: center;
+    margin-left: 40%;
+}
+h3 {
+    margin-left: 45%;
+}
+h2 {
+    margin-left: 47%;
+    margin-right: 45%;
+    color: rgb(15, 69, 69);
+    border: 3px solid #4faae2;
+    border-radius: 15px;
+    border-style: groove;
+    
+    
+    
+}
+p,ol li {
+    text-align: center;
+    padding: auto;
+    font-weight: bold;
+    font-style: italic;
+    font-size: medium;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+a:hover{
+    text-decoration: dotted;
+    color: crimson;
+}
+ol li {
+    margin-left: 15%;
+    margin-right: 15%;
+    list-style-type: circle;
+    line-height: 50px;
+    list-style-position: inside;
+    text-align: justify;
+    
+}
+ol li a {
+    margin-left: 15%;
+    margin-right: 15%;
+    list-style-type: circle;
+    line-height: 50px;
+    list-style-position: inside;
+    text-align: justify;
+}
+main {
+    background-image: url(https://img.freepik.com/premium-vector/grey-white-abstract-technology-background_42421-182.jpg?w=2000);
+}
+
+
+
+/* Add more CSS styles to customize your portfolio */
